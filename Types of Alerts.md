@@ -39,23 +39,23 @@
   - Mostly detected by Network
   - Output : Mostly Treated as False Positive
 
-7. ***Potential Data Exfiltration : ***
+7. ***Potential Data Exfiltration :***
   - Occured mostly because of suspicious data upload  
   - Event Type : Data Upload
   - Failure Reason : Suspicious data upload from .... to ....
 
 
-8. ***Brute Force Attack : ***
+8. ***Brute Force Attack :***
   - 
   - Event Type: Database Admin Login Failure or Network Login Failure
   - Failure Reason : failed in authentication or User login denied due to bad credentials
 
-9. ***Potential Ransomware : ***
+9. ***Potential Ransomware :***
   -
   - Event Type : Suspicious Process
   - Failure Reason : New process has been created for .exe which can be suspicious as a ransomware malware
 
-10. ***Potential Vulnerability Exploit : ***
+10. ***Potential Vulnerability Exploit :***
 
 
  

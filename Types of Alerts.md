@@ -8,12 +8,12 @@
   - Output : Mostly Treated as False Positive
   - Mostly found in all the clients due to NTLM Services
 
-2. ***Suspious Login : ***
+2. ***Suspious Login :***
   - Event type : Host Login Failure
   - Failure Reason: Account currently disabled 
   - mostly detected by Host
 
-3. ***Potential Zero Day Malware : ***
+3. ***Potential Zero Day Malware :***
   - occured due to Wifi network or port scanning
   - Event type: New Connection To An Application On A Host
   - Failure Reason : New Connection Establishment
@@ -32,7 +32,7 @@
   - Mostly deteced by Network
   - Output : Mostly whitelisted such alerts
 
-6. ***UDA - Protocol Recon : ***
+6. ***UDA - Protocol Recon :***
   - occured mostly because of firewall denied all the traffic or Test Policy port 3128
   - Mostly False Positive Alert 
   - Event type : Protocol Recon
